@@ -32,7 +32,6 @@ I’m interested in expanding my skills by learning the C programming language.
 <p align="center">
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>  
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>  
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>  
 
