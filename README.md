@@ -1,12 +1,13 @@
-### Hi there 👋 
+<h1 align="center">Hi there 👋, I'm Mark Gallagher</h1>
 
-My name is Mark Gallagher. 
+<p align="center">
+I’m a high school student currently learning computer science and programming with Python.<br>
+I’m interested in expanding my skills by learning the C programming language.
+</p>
 
-I am a high school student learning computer science/programming using python. 
+---
 
-🌱 I’m currently learning: python 
-
-👀 I’m interested in: learning the language C 
+<h3 align="center">📫 Connect with me</h3>
 
 <p align="center"> 
 
@@ -24,6 +25,10 @@ I am a high school student learning computer science/programming using python.
 
 </p>
 
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align='center'> 
 
    <a href="https://github-readme-stats.vercel.app/api?username=gci253034-byte&show_icons=true&count_private=true"> 
@@ -35,11 +40,3 @@ I am a high school student learning computer science/programming using python.
    </a> 
 
 </p>
-
-🛠 Technology Stack
-Python (currently learning)
-C (interested in learning)
-Basic Computer Science concepts
-Git & GitHub
-
-Hi, I’m Mark Gallagher. I’m a high school student currently learning computer science and programming with Python. I’m especially interested in expanding my skills by learning the C programming language.
